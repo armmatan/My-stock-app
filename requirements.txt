@@ -1,5 +1,24 @@
-streamlit
-pandas
-yfinance
-plotly
-requests
+# Stock Trading Dashboard - Requirements
+# =====================================
+
+# Core Framework
+streamlit>=1.31.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Financial Data
+yfinance>=0.2.36
+
+# Visualization
+plotly>=5.18.0
+
+# HTTP Requests (for APIs)
+requests>=2.31.0
+
+# Google Sheets Integration
+streamlit-gsheets>=0.0.2
+
+# Database
+# sqlite3 comes built-in with Python
