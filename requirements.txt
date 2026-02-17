@@ -2,4 +2,5 @@ streamlit
 pandas
 yfinance
 plotly
+ta-lib-bin
 requests
